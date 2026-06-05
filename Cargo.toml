@@ -1,0 +1,9 @@
+[package]
+name = "ternary-seed"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Seeded-Model-Programming (SMP) foundation for balanced ternary inference"
+repository = "https://github.com/SuperInstance/ternary-seed"
+
+[dependencies]
