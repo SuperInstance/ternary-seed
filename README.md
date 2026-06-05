@@ -83,3 +83,11 @@ Foundation crate for the SuperInstance SMP (Seeded-Model-Programming) layer. Ups
 ## License
 
 MIT
+
+## See Also
+- **ternary-genome** — related
+- **ternary-ga** — related
+- **ternary-fitness** — related
+- **ternary-random** — related
+- **ternary-evolution-advanced** — related
+
